@@ -1,5 +1,5 @@
 include:
-  - /custom_head.html
+  - custom_head.html
 
 title: Brady Miller
 logo: /assets/img/headshot.png
