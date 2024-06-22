@@ -12,6 +12,6 @@ Data Intern @ Jax Nutrition
 - Conducted market research and built competitive analysis reports on 2 industry peers, providing insights leading to a projected 8% in market share
 
 ### Projects
-Project 1 - 
-- Link
+Project 1 - Pizza Sales Anaylsis
+- [SQL/Readme] https://github.com/bradymillr/PizzaSalesAnalysis [Tableau Dashboard] 
 - Description of Project
