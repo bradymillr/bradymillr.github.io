@@ -1,7 +1,8 @@
 ## Portfolio/Project Links
 
-### Projects
-Pizza Sales Analysis - [Project Link](https://github.com/bradymillr/PizzaSalesAnalysis) and  [Dashboard Link](https://public.tableau.com/views/PizzaSalesDashboard_17190327361970/PizzaSalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+### Pizza Sales Analysis 
+
+[Project Link](https://github.com/bradymillr/PizzaSalesAnalysis) and  [Dashboard Link](https://public.tableau.com/views/PizzaSalesDashboard_17190327361970/PizzaSalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 Below are three quick results from this project, however for an in-depth explanation and personal rationale for pursuing this project, please visit the Project Link above. To look at the visuals, please view the Dashboard Link.
 - Used SQL to parse through data and answer two routine/cyclical questions in an organization
