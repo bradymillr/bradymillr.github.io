@@ -1,4 +1,4 @@
-# Information Technology Management Student
+### Information Technology Management Student
 
 ### Education
 - Boise State University (May 2023 - December 2025)
@@ -13,5 +13,5 @@ Data Intern @ Jax Nutrition
 
 ### Projects
 Pizza Sales Anaylsis
-- [SQL/Readme](https://github.com/bradymillr/PizzaSalesAnalysis)
-- Description of Project
+- [SQL/ReadMe](https://github.com/bradymillr/PizzaSalesAnalysis)
+- In this project I used SQL to parse through data and answer two routine/cyclical questions that may be asked by a pizza shop owner or other departments. Additionally, I answered two more complicated questions to inform two suggestions for improving the business's profitability overall along with offering a new menu item. See an in-depth description along with the findings/code in my ReadMe File above!
