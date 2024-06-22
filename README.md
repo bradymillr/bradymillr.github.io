@@ -1,3 +1,5 @@
+Title: Brady Miller Portfolio
+
 # Information Technology Management Student
 
 ### Education
