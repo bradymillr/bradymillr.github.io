@@ -1,6 +1,4 @@
-<span style="color:white; font-size:0;">Brady Miller's Portfolio</span>
-
-## Information Technology Management Student
+# Information Technology Management Student
 
 ### Education
 Boise State University (May 2023 - December 2025)
