@@ -15,7 +15,7 @@ Below are three quick results from this project, however for an in-depth explana
 Boise State University (May 2023 - December 2025)
 - BBA Information Technology Management
 - GPA - 3.92/4.0 Major GPA - 4.0/4.0
-
+- Relevant Coursework: Business Intelligence, Intro to Business Analytics, Calculus I, Database Topics
 ### Work Experience
 Data Intern @ Jax Nutrition
 - Analyzed margins and inventory turnover rates to phase out slow-moving or low-margin products and increase inventory turnover by 2x annualized
