@@ -1,5 +1,3 @@
-# Information Technology Management Student
-
 ### Education
 Boise State University (May 2023 - December 2025)
 - BBA Information Technology Management
