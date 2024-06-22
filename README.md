@@ -1,9 +1,9 @@
 ## Information Technology Management Student
 
 ### Education
-- Boise State University (May 2023 - December 2025)
-  - BBA Information Technology Management
-  - GPA - 3.92/4.0 Major GPA - 4.0/4.0
+Boise State University (May 2023 - December 2025)
+- BBA Information Technology Management
+- GPA - 3.92/4.0 Major GPA - 4.0/4.0
 
 ### Work Experience
 Data Intern @ Jax Nutrition
