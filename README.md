@@ -1,3 +1,5 @@
+<span style="color:white; font-size:0;">Brady Miller's Portfolio</span>
+
 ## Information Technology Management Student
 
 ### Education
