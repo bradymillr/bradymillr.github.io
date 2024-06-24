@@ -9,6 +9,15 @@ Below are three quick results from this project, however for an in-depth explana
 - Analyzed the data from SQL to inform two new suggestions to improve future profitability and business performance
 - Utilized Tableau to create a user-friendly dashboard which could be used by other teams or stakeholders for quick information
 
+### Historical Sales Dashboard on Tableau
+
+[Dashboard Link](https://public.tableau.com/views/HistoricalSalesDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+Below are the impacts/uses of this historical dashboard along with some of the functions used in Tableau. To interact with and fully view the dashboard, please visit the link above.
+- Created calculated fields for universal use across different KPIs for easy filtering and connection of all elements
+- Built an interactive interface to allow a user to quickly gather an understanding of the data and historical trends
+- Created calculated value checks that automatically determine the lowest value, if a value is above/below average, etc., and assigns a color for clear visual comprehension
+
 ## Background
 
 ### Education
