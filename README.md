@@ -1,7 +1,16 @@
 ## Portfolio/Project Links
 
-### Pizza Sales Analysis 
+### Password Cracker Using Python 
+[Project Link](https://github.com/bradymillr/PasswordCracker/blob/main/README.md)
 
+This is a simple brute-force password cracker using python. NOTE: This method takes a very long time, so if you are interesting in testing this code, use 1-2 characters first. Two characters can take over 1,000 guesses.
+
+### Password Generator Using Python 
+[Project Link](https://github.com/bradymillr/PasswordGenerator/blob/main/README.md)
+
+This is a password generator that will generate a password of any desired length and tell you how many brute force guesses it would roughly guess to crack.
+
+### Pizza Sales Analysis 
 [Project Link](https://github.com/bradymillr/PizzaSalesAnalysis) and  [Dashboard Link](https://public.tableau.com/views/PizzaSalesDashboard_17190327361970/PizzaSalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 Below are three quick results from this project, however for an in-depth explanation and personal rationale for pursuing this project, please visit the Project Link above. To look at the visuals, please view the Dashboard Link.
