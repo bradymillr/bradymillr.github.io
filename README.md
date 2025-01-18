@@ -22,8 +22,8 @@ This is a password generator that will generate a password of any desired length
 ### Education
 Boise State University (May 2023 - December 2025)
 - BBA Information Technology Management
-- GPA - 3.92/4.0
-- Relevant Coursework: Networking, Business Intelligence, Intro to Business Analytics, Calculus I, Database Topics
+- GPA - 3.94/4.0
+- Relevant Coursework: Networking, Systems Planning, Database Systems, Project Manageme
   
 ### Work Experience
 Cybersecurity Analyst Intern @ Cyberdome
