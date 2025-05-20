@@ -22,14 +22,14 @@ This is a password generator that will generate a password of any desired length
 ### Education
 Boise State University (May 2023 - December 2025)
 - BBA Information Technology Management
-- GPA - 3.94/4.0
-- Relevant Coursework: Networking, Systems Planning, Database Systems, Project Manageme
+- GPA - 3.95/4.0
+- Relevant Coursework: Networking, Systems Planning, Database Systems, Project Management
   
 ### Work Experience
 Cybersecurity Analyst Intern @ Cyberdome
 - Monitored client networks throughout the state to detect and investigate network alerts and potential threats using Stellar.
 - Suggested potential remediation measures for clients to prevent future malicious traffic or behavior throughout their network.
-- Used command line tools such as traceroute, ping, nslookup, and netstat to evaluate the status of various devices and verify their credibility.
+- Used command line tools such as traceroute, ping, nslookup, and open source tools to evaluate the status of various devices and verify their credibility.
 
 
 
