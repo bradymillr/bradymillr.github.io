@@ -20,7 +20,7 @@ This is a password generator that will generate a password of any desired length
 ## Background
 
 ### Education
-Boise State University (May 2023 - December 2025)
+Boise State University | May 2023 - December 2025
 - BBA Information Technology Management
 - GPA - 3.95/4.0
 - Relevant Coursework: Networking, Systems Planning, Database Systems, Project Management
